@@ -10,6 +10,10 @@
 
 [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 
+## GitHub repos
+
+[Awesome Decision Transformer](https://github.com/opendilab/awesome-decision-transformer)
+
 ## Papers
 
 [BOOLA: Benchmarking and Orchestrating LLM Augmented Autonomous Agents](https://arxiv.org/pdf/2308.05960.pdf)
