@@ -16,6 +16,8 @@
 
 ## Courses
 
+[Building with LLMs - FourthBrain](https://great-yamamomo-5c3.notion.site/Building-with-LLMs-7969d1e5e8e24ba99144255b58c5ea47)
+
 [MLOps Guide - Chi Huyen](https://huyenchip.com/mlops/)
 
 ## Projects to build next
@@ -27,6 +29,10 @@
 ## LinkeDin
 
 ## AI platforms
+
+## AgileLoop
+
+[Architecture - AgileLoop](file:///home/pevj/Downloads/ArchitectureDiagram-Iteration1%20(1).png)
 
 ## Other
 
