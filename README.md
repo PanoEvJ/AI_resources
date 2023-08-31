@@ -37,3 +37,9 @@
 ## Other
 
 [Model Memory Calculator - HuggingFace](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
+
+## Career
+
+[CareerFlow.ai](https://app.careerflow.ai/)
+
+
