@@ -15,3 +15,8 @@
 [Let's build GPT by Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy)
 
 [Language Modeling with nn.Transformer and TorchText](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+
+## NLP with LLMs
+Preparation for interview
+
+[NLP with LLMs - John Kron](https://www.youtube.com/watch?v=Ku9PM26Cc2c&ab_channel=JonKrohn)
