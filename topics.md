@@ -20,3 +20,7 @@
 Preparation for interview
 
 [NLP with LLMs - John Kron](https://www.youtube.com/watch?v=Ku9PM26Cc2c&ab_channel=JonKrohn)
+
+## RLHF
+
+[RLHF blogpost - HuggingFace](https://huggingface.co/blog/rlhf)
