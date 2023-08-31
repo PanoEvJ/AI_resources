@@ -26,3 +26,6 @@ Preparation for interview
 [RLHF blogpost - HuggingFace](https://huggingface.co/blog/rlhf)
 
 [How to code RLHF on Llama2, QLoRA, 4bit, TRL, DPO - Code_your_own_AI](https://www.youtube.com/watch?v=aI8cyr-gH6M&t=228s&ab_channel=code_your_own_AI)
+
+## Maker Space Jam
+[Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval - Medium](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
