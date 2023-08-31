@@ -30,10 +30,6 @@
 
 ## AI platforms
 
-## AgileLoop
-
-[Architecture - AgileLoop](file:///home/pevj/Downloads/ArchitectureDiagram-Iteration1%20(1).png)
-
 ## Other
 
 [Model Memory Calculator - HuggingFace](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
