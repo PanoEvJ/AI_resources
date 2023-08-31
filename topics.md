@@ -25,4 +25,4 @@ Preparation for interview
 
 [RLHF blogpost - HuggingFace](https://huggingface.co/blog/rlhf)
 
-[How to code RLHF on Llama2, QLoRA, 4bit, TRL. DPO - Code_your_own_AI](https://www.youtube.com/watch?v=aI8cyr-gH6M&t=228s&ab_channel=code_your_own_AI)
+[How to code RLHF on Llama2, QLoRA, 4bit, TRL, DPO - Code_your_own_AI](https://www.youtube.com/watch?v=aI8cyr-gH6M&t=228s&ab_channel=code_your_own_AI)
