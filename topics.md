@@ -21,6 +21,10 @@ Preparation for interview
 
 [NLP with LLMs - John Kron](https://www.youtube.com/watch?v=Ku9PM26Cc2c&ab_channel=JonKrohn)
 
+[useful notebook 1](https://colab.research.google.com/drive/13nuhA7dQXjse_SRpTjPe-oM6iIZkR_TB?usp=sharing#scrollTo=c1aeb84e-522a-4831-804e-bb013d6d9b23)
+
+[useful notebook 2](https://colab.research.google.com/drive/1SRclU2pcgzCkVXpmhKppVbGW4UcCs5xT?usp=sharing#scrollTo=3PiphOn7VXO9)
+
 ## RLHF
 
 [RLHF blogpost - HuggingFace](https://huggingface.co/blog/rlhf)
