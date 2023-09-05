@@ -33,6 +33,10 @@ Preparation for interview
 
 [Juan's repo](https://github.com/jcolano/RLHF)
 
+[openai-summarization-dataset](https://huggingface.co/datasets/yitingxie/rlhf-reward-datasets/viewer/yitingxie--rlhf-reward-datasets/train)
+
+[TRL reward_trainer.py](https://github.com/huggingface/trl/blob/main/examples/scripts/reward_trainer.py)
+
 ## LlamaIndex
 
 [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval - Medium](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
