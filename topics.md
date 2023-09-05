@@ -35,6 +35,8 @@ Preparation for interview
 
 [openai-summarization-dataset](https://huggingface.co/datasets/yitingxie/rlhf-reward-datasets/viewer/yitingxie--rlhf-reward-datasets/train)
 
+[Llama-2 summarization with RLHF](https://www.youtube.com/watch?v=R2paulc3P2M&ab_channel=WhisperingAI)
+
 [TRL reward_trainer.py](https://github.com/huggingface/trl/blob/main/examples/scripts/reward_trainer.py)
 
 ## LlamaIndex
