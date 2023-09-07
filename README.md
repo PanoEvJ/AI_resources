@@ -44,6 +44,8 @@
 
 [Model Memory Calculator - HuggingFace](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
 
+[AI_MakerSpace_CANVAS_presentation_stack](https://www.canva.com/design/DAFtsoiqqFs/S0HQc1TibgvTrufU1n7r8A/edit)
+
 ## Career
 
 [CareerFlow.ai](https://app.careerflow.ai/)
