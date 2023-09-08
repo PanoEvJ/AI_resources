@@ -45,6 +45,8 @@ Preparation for interview
 
 [Rouge Scores for summarization](https://medium.com/@sthanikamsanthosh1994/understanding-bleu-and-rouge-score-for-nlp-evaluation-1ab334ecadcb#:~:text=ROUGE%20score%20measures%20the%20similarity,unigrams%2C%20bigrams%2C%20and%20trigrams.)
 
+[arXiv](https://paperswithcode.com/sota/text-summarization-on-arxiv)
+
 ## LlamaIndex
 
 [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval - Medium](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
