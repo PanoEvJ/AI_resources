@@ -50,4 +50,8 @@
 
 [CareerFlow.ai](https://app.careerflow.ai/)
 
+## Great AI tools
+
+[dexa.AI](https://dexa.ai/)
+
 
