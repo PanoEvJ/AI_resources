@@ -39,6 +39,8 @@ Preparation for interview
 
 [TRL reward_trainer.py](https://github.com/huggingface/trl/blob/main/examples/scripts/reward_trainer.py)
 
+[Summarization with trlX - WandB](https://wandb.ai/carperai/summarize_RLHF/reports/Implementing-RLHF-Learning-to-Summarize-with-trlX--VmlldzozMzAwODM2)
+
 ## LlamaIndex
 
 [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval - Medium](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
