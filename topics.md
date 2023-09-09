@@ -27,6 +27,8 @@ Preparation for interview
 
 [How to code RLHF on Llama2, QLoRA, 4bit, TRL, DPO - Code_your_own_AI](https://www.youtube.com/watch?v=aI8cyr-gH6M&t=228s&ab_channel=code_your_own_AI)
 
+[DPO - Code_your_own_AI](https://www.youtube.com/watch?v=pzh2oc6shic&ab_channel=code_your_own_AI)
+
 [useful notebook 1](https://colab.research.google.com/drive/13nuhA7dQXjse_SRpTjPe-oM6iIZkR_TB?usp=sharing#scrollTo=c1aeb84e-522a-4831-804e-bb013d6d9b23)
 
 [useful notebook 2](https://colab.research.google.com/drive/1SRclU2pcgzCkVXpmhKppVbGW4UcCs5xT?usp=sharing#scrollTo=3PiphOn7VXO9)
