@@ -31,6 +31,8 @@ Preparation for interview
 
 [useful notebook 2](https://colab.research.google.com/drive/1SRclU2pcgzCkVXpmhKppVbGW4UcCs5xT?usp=sharing#scrollTo=3PiphOn7VXO9)
 
+[useful_notebook_3](https://colab.research.google.com/drive/1gAixKzPXCqjadh6KLsR5ZRUnb8VRvZl1?usp=sharing)
+
 [Juan's repo](https://github.com/jcolano/RLHF)
 
 [openai-summarization-dataset](https://huggingface.co/datasets/yitingxie/rlhf-reward-datasets/viewer/yitingxie--rlhf-reward-datasets/train)
