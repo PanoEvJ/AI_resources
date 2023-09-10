@@ -53,6 +53,8 @@ Preparation for interview
 
 [summarization_LangChain](https://python.langchain.com/docs/use_cases/summarization)
 
+[PPO Hyperparameters and Ranges](https://medium.com/aureliantactics/ppo-hyperparameters-and-ranges-6fc2d29bccbe)
+
 ## LlamaIndex
 
 [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval - Medium](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
