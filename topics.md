@@ -35,6 +35,8 @@ Preparation for interview
 
 [useful_notebook_3](https://colab.research.google.com/drive/1gAixKzPXCqjadh6KLsR5ZRUnb8VRvZl1?usp=sharing)
 
+[useful_notebook_kaggle](https://www.kaggle.com/code/paultimothymooney/fine-tune-flan-t5-with-ppo-deeplearning-ai)
+
 [Juan's repo](https://github.com/jcolano/RLHF)
 
 [openai-summarization-dataset](https://huggingface.co/datasets/yitingxie/rlhf-reward-datasets/viewer/yitingxie--rlhf-reward-datasets/train)
