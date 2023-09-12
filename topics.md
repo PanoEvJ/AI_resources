@@ -59,6 +59,8 @@ Preparation for interview
 
 [ROUGE](https://huggingface.co/spaces/evaluate-metric/rouge)
 
+[Canvas Preseantion Copy](https://www.canva.com/design/DAFuQ_fXUwk/FlEYR7B-CWLAiKse7U6FXQ/edit)
+
 ## LlamaIndex
 
 [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval - Medium](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
