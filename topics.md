@@ -2,7 +2,7 @@
 
 ## Enmbeddings
 
-[Illustrated Embeddings](http://jalammar.github.io/illustrated-word2vec/)
+[The Illustrated Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
 
 ## Code a Transformer
 
