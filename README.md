@@ -12,6 +12,8 @@
 
 ## GitHub repos
 
+[ML engineering](https://github.com/stas00/ml-engineering/tree/master?utm_source=tldrai)
+
 [Awesome Decision Transformer](https://github.com/opendilab/awesome-decision-transformer)
 
 ## Papers
