@@ -42,6 +42,8 @@
 
 ## AI platforms
 
+[Phoenix Arize - ML Observability](https://phoenix.arize.com/)
+
 ## Other
 
 [Model Memory Calculator - HuggingFace](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
