@@ -1,5 +1,9 @@
 # Resources on specifiic topics
 
+## Enmbeddings
+
+[Illustrated Embeddings](http://jalammar.github.io/illustrated-word2vec/)
+
 ## Code a Transformer
 
 [Transformers Illustrated](https://tamoghnasaha-22.medium.com/transformers-illustrated-5c9205a6c70f)
