@@ -16,6 +16,8 @@
 
 [Awesome Decision Transformer](https://github.com/opendilab/awesome-decision-transformer)
 
+[ML stock trading](https://github.com/D-dot-AT/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples)
+
 ## Papers
 
 [Distill_A_](https://aman.ai/primers/ai/)
