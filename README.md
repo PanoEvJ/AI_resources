@@ -20,6 +20,8 @@
 
 ## Papers
 
+[The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
+
 [Distill_A_](https://aman.ai/primers/ai/)
 
 [multi-task-language-understanding-on-mmlu](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu)
