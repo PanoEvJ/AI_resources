@@ -1,5 +1,11 @@
 # Resources on specifiic topics
 
+## Autonomous Agents
+
+[YouTube video by AIJason](https://www.youtube.com/watch?v=pJwR5pv0_gs&ab_channel=AIJason)
+
+[Overview by Medium article](https://medium.com/towards-data-science/4-autonomous-ai-agents-you-need-to-know-d612a643fa92)
+
 ## Enmbeddings
 
 [The Illustrated Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
