@@ -32,10 +32,16 @@ Preparation for interview
 [NLP with LLMs - John Kron](https://www.youtube.com/watch?v=Ku9PM26Cc2c&ab_channel=JonKrohn)
 
 ## RLAIF
+
 [RLHF vs RLAIF by AssemblyAI](https://www.assemblyai.com/blog/rlhf-vs-rlaif-for-language-model-alignment/)
+
 [RLAIF by DeciAI](https://cameronrwolfe.substack.com/p/rlaif-reinforcement-learning-from?nthPub=151)
+
 [RLAIF scaling by Medium](https://medium.datadriveninvestor.com/rlaif-scaling-reinforcement-learning-from-human-feedback-with-ai-feedback-aae57b7c36a9)
+
 [RLAIF paragraph by Medium](https://medium.com/nlplanet/weekly-ai-and-nlp-news-september-5th-2023-6cdcc8dbfb30)
+
+[Collection of thoughts](https://docs.google.com/document/d/1sGlGSONzbAYx0XY7LfpZcsthCNGlbfPBJWOF_GoplZg/edit)
 
 ## RLHF
 
