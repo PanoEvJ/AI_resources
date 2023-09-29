@@ -31,6 +31,9 @@ Preparation for interview
 
 [NLP with LLMs - John Kron](https://www.youtube.com/watch?v=Ku9PM26Cc2c&ab_channel=JonKrohn)
 
+## RLAIF
+[RLHF vs RLAIF by AssemblyAI](https://www.assemblyai.com/blog/rlhf-vs-rlaif-for-language-model-alignment/)
+
 ## RLHF
 
 [RLHF blogpost - HuggingFace](https://huggingface.co/blog/rlhf)
