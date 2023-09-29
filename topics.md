@@ -10,6 +10,7 @@
 
 [The Illustrated Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
 [RLAIF scaling by Medium](https://medium.datadriveninvestor.com/rlaif-scaling-reinforcement-learning-from-human-feedback-with-ai-feedback-aae57b7c36a9)
+[RLAIF paragraph by Medium](https://medium.com/nlplanet/weekly-ai-and-nlp-news-september-5th-2023-6cdcc8dbfb30)
 
 ## Code a Transformer
 
