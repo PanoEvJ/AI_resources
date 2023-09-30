@@ -28,6 +28,8 @@
 
 [BOOLA: Benchmarking and Orchestrating LLM Augmented Autonomous Agents](https://arxiv.org/pdf/2308.05960.pdf)
 
+[How LLMs use Long Context](https://arxiv.org/pdf/2307.03172.pdf)
+
 ## Books
 
 ## Courses
