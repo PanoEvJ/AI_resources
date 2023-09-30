@@ -22,8 +22,6 @@
 
 [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 
-[Distill_A_](https://aman.ai/primers/ai/)
-
 [multi-task-language-understanding-on-mmlu](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu)
 
 [BOOLA: Benchmarking and Orchestrating LLM Augmented Autonomous Agents](https://arxiv.org/pdf/2308.05960.pdf)
@@ -39,6 +37,8 @@
 [Building with LLMs - FourthBrain](https://great-yamamomo-5c3.notion.site/Building-with-LLMs-7969d1e5e8e24ba99144255b58c5ea47)
 
 [MLOps Guide - Chi Huyen](https://huyenchip.com/mlops/)
+
+[Distill_AI](https://aman.ai/primers/ai/)
 
 ## Projects to build next
 
