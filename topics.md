@@ -43,6 +43,8 @@ Preparation for interview
 
 [Collection of thoughts](https://docs.google.com/document/d/1sGlGSONzbAYx0XY7LfpZcsthCNGlbfPBJWOF_GoplZg/edit)
 
+[Constitutional AI by Medium](https://anote-ai.medium.com/anthropic-constitutional-ai-harmlessness-from-ai-feedback-56d30eb4c4d2)
+
 ## RLHF
 
 [RLHF blogpost - HuggingFace](https://huggingface.co/blog/rlhf)
