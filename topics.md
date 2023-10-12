@@ -98,3 +98,5 @@ Preparation for interview
 [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval - Medium](https://betterprogramming.pub/building-production-ready-llm-apps-with-llamaindex-document-metadata-for-higher-accuracy-retrieval-a8ceca641fb5)
 
 [Building Production-Ready LLM Apps with LlamaIndex: Document Metadata for Higher Accuracy Retrieval](https://towardsdatascience.com/llamaindex-the-ultimate-llm-framework-for-indexing-and-retrieval-fa588d8ca03e)
+
+[High-Performance RAG with LlamaIndex](https://www.youtube.com/watch?v=wBhY-7B2jdY&ab_channel=AIMakerspace)
