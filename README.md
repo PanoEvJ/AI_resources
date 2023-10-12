@@ -30,6 +30,8 @@
 
 [How LLMs use Long Context](https://arxiv.org/pdf/2307.03172.pdf)
 
+[Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620)
+
 ## Books
 
 ## Courses
