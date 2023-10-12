@@ -6,13 +6,15 @@
 
 [Overview by Medium article](https://medium.com/towards-data-science/4-autonomous-ai-agents-you-need-to-know-d612a643fa92)
 
+[Autogen](https://www.youtube.com/watch?v=L8UsPlT0nAA&ab_channel=echohive)
+
 ## Enmbeddings
 
 [The Illustrated Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
 
 ## LLM Evaluation
 
-[Phoenix](https://docs.arize.com/phoenix/concepts/llm-evals)
+[Phoenix Deep Dive with Multi Agent interactions](https://docs.arize.com/phoenix/concepts/llm-evals)
 
 ## Code a Transformer
 
