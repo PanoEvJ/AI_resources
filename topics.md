@@ -10,6 +10,10 @@
 
 [The Illustrated Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
 
+## LLM Evaluation
+
+[Phoenix](https://docs.arize.com/phoenix/concepts/llm-evals)
+
 ## Code a Transformer
 
 [Transformers Illustrated](https://tamoghnasaha-22.medium.com/transformers-illustrated-5c9205a6c70f)
