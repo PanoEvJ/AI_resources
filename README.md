@@ -68,4 +68,8 @@
 
 [dexa.AI](https://dexa.ai/)
 
+## Topics for AI MakerSpace
+
+[Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207)
+
 
