@@ -74,4 +74,6 @@
 
 [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207)
 
+[AI papers deep dive: LLM understanding, RAG, CoT](https://www.youtube.com/watch?v=-coFCnKo774&ab_channel=SophiaYang)
+
 
