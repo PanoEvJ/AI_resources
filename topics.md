@@ -6,7 +6,8 @@
 
 ## AI transparency & Understanding
 
-
+[Representation Engineering:
+A Top-Down Approach to AI Transparency}(https://www.ai-transparency.org/)
 
 [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 
