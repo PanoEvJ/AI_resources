@@ -8,6 +8,9 @@
 
 [Autogen](https://www.youtube.com/watch?v=L8UsPlT0nAA&ab_channel=echohive)
 
+[Swarm of AI agents](https://ai.plainenglish.io/orchestrating-a-swarm-of-ai-agents-to-accomplish-complex-goals-a-theorical-approach-57241b614b46)
+
+
 ## Enmbeddings
 
 [The Illustrated Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
