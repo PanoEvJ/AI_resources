@@ -10,8 +10,15 @@
 
 [Swarm of AI agents](https://ai.plainenglish.io/orchestrating-a-swarm-of-ai-agents-to-accomplish-complex-goals-a-theorical-approach-57241b614b46)
 
+## Multimodal LLMs
 
-## Enmbeddings
+[Multi-modal LLMs by Code_your_own_AI](https://www.youtube.com/watch?v=pjxQVn9jeCs&t=867s&ab_channel=code_your_own_AI)
+integration of both text & vision data
+
+[Donut & Nougat](https://www.youtube.com/watch?v=_ib8IvZijm0&ab_channel=code_your_own_AI)
+
+
+## Embeddings
 
 [The Illustrated Word2Vec](http://jalammar.github.io/illustrated-word2vec/)
 
