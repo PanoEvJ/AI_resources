@@ -4,6 +4,12 @@
 
 [RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/abs/2310.013520)
 
+## AI transparency & Understanding
+
+
+
+[Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
+
 ## Autonomous Agents
 
 [YouTube video by AIJason](https://www.youtube.com/watch?v=pJwR5pv0_gs&ab_channel=AIJason)
