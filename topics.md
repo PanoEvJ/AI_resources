@@ -37,6 +37,8 @@ integration of both text & vision data
 
 [Phoenix Deep Dive with Multi Agent interactions](https://docs.arize.com/phoenix/concepts/llm-evals)
 
+[ARISE course](https://www.youtube.com/playlist?list=PL86ARIu_ElO7KyrpbJSQ6aCUFBxdJCU8a)
+
 ## Code a Transformer
 
 [Transformers Illustrated](https://tamoghnasaha-22.medium.com/transformers-illustrated-5c9205a6c70f)
