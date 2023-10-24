@@ -36,6 +36,8 @@
 
 [REVIEW: Machine Learning in Finance](https://www.youtube.com/playlist?list=PL86ARIu_ElO7KyrpbJSQ6aCUFBxdJCU8a)
 
+[State of Open Source AI book - 2023 Edition](https://book.premai.io/state-of-open-source-ai/mlops-engines/)
+
 ## Courses
 
 [LLMOps Large Language Models in Production - Maven](https://maven.com/aimakerspace/llmops/1/home)
