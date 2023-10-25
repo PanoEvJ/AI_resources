@@ -1,5 +1,9 @@
 # AI_resources
 
+## Web resources
+[https://natural20.com/learn-ai/autogen/](https://natural20.com/learn-ai/autogen/)
+
+
 ## Web articles
 
 [Trasnformer Math 101 - EleutherAI](https://blog.eleuther.ai/transformer-math/)
