@@ -18,7 +18,7 @@
 
 [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 
-[Multimodality and Large Multimodal Models (LMMs)](https://huyenchip.com/2023/10/10/multimodal.html)
+[Multimodality and Large Multimodal Models (LMMs) by Chip Huyen](https://huyenchip.com/2023/10/10/multimodal.html)
 
 ## GitHub repos
 
