@@ -3,6 +3,8 @@
 ## Web resources
 [https://natural20.com/learn-ai/autogen/](https://natural20.com/learn-ai/autogen/)
 
+[Harpreet's substack](https://harpreetsahota.substack.com/)
+
 
 ## Web articles
 
