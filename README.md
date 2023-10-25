@@ -5,6 +5,8 @@
 
 [Harpreet's substack](https://harpreetsahota.substack.com/)
 
+[100 days to LangChain](https://docs.google.com/spreadsheets/d/1zuln4CZjic25jIxiars-Lf91tiwSiLuBFCw1aH5UggY/edit#gid=0)
+
 
 ## Web articles
 
