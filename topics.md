@@ -1,5 +1,9 @@
 # Resources on specifiic topics
 
+## MemGPT
+
+[Webinar "Using memory with LLM applications in production"](https://www.youtube.com/watch?v=d3qQ4R4TgGw&ab_channel=DataPhoenixEvents)
+
 ## RAG
 
 [RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/abs/2310.013520)
