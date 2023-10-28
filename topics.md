@@ -17,6 +17,10 @@ A Top-Down Approach to AI Transparency}(https://www.ai-transparency.org/)
 
 ## Autonomous Agents
 
+[Multi-Agents by MLQ.ai](https://www.mlq.ai/building-ai-agents-autogen/)
+
+[Microsoft AutoGen notebooks](https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/?ref=mlq.ai)
+
 [YouTube video by AIJason](https://www.youtube.com/watch?v=pJwR5pv0_gs&ab_channel=AIJason)
 
 [Overview by Medium article](https://medium.com/towards-data-science/4-autonomous-ai-agents-you-need-to-know-d612a643fa92)
