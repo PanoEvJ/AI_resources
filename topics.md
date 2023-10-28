@@ -17,6 +17,8 @@ A Top-Down Approach to AI Transparency}(https://www.ai-transparency.org/)
 
 ## Autonomous Agents
 
+[Autonomous Agents article on Medium](https://ai.plainenglish.io/towards-collaborative-intelligence-advanced-multi-agent-systems-in-large-language-models-with-d7e090d2d739)
+
 [Multi-Agents by MLQ.ai](https://www.mlq.ai/building-ai-agents-autogen/)
 
 [Microsoft AutoGen notebooks](https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/?ref=mlq.ai)
