@@ -56,6 +56,10 @@
 
 [Distill_AI](https://aman.ai/primers/ai/)
 
+## Noteboooks
+
+[Export embeddings with DeciML](https://colab.research.google.com/drive/1l8qkG3pbIJQX7GUKvsW2WHxInldkCz_n?usp=sharing)
+
 ## Projects to build next
 
 [Various projects - MLQ.ai](https://www.mlq.ai/tag/generative-ai/)
