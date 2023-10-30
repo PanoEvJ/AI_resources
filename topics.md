@@ -8,6 +8,8 @@
 
 [RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/abs/2310.013520)
 
+[Multimodal RAG with LlamaIndex](https://github.com/run-llama/llama_index/blob/main/docs/examples/multi_modal/multi_modal_retrieval.ipynb)
+
 ## AI transparency & Understanding
 
 [Representation Engineering:
