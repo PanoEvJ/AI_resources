@@ -40,6 +40,8 @@
 
 [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620)
 
+[PDFTriage: Question Answering over Long, Structured Documents](https://arxiv.org/pdf/2309.08872.pdf)
+
 ## Books
 
 [REVIEW: Machine Learning in Finance](https://www.youtube.com/playlist?list=PL86ARIu_ElO7KyrpbJSQ6aCUFBxdJCU8a)
