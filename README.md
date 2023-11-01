@@ -62,6 +62,8 @@
 
 [Export embeddings with DeciML](https://colab.research.google.com/drive/1l8qkG3pbIJQX7GUKvsW2WHxInldkCz_n?usp=sharing)
 
+[AI Makerspace - Training BART for summarization](https://colab.research.google.com/drive/1NwwPKYlyOIxeRI1BBUMZ-uFIApyZxARy?usp=sharingopens)
+
 ## Projects to build next
 
 [Various projects - MLQ.ai](https://www.mlq.ai/tag/generative-ai/)
