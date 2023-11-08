@@ -30,6 +30,8 @@
 
 [ML stock trading](https://github.com/D-dot-AT/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples)
 
+[Lil'Log](https://lilianweng.github.io/)
+
 ## Papers
 
 [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
