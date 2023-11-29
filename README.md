@@ -2,6 +2,8 @@
 
 ## AI Makerspace
 
+[LLM Ops 3](https://lizard-linseed-af1.notion.site/LLM-Ops-Cohort-3-Home-Page-17433a51970845bbaff7fa5bc26e618c)
+
 [LuMa](https://lu.ma/aimakerspace)
 
 [AI Makerspace - LLM Engineering Cohort 1](https://lizard-linseed-af1.notion.site/LLM-Engineering-The-Foundations-Detailed-Schedule-3fed942e860f4fb998d4acf0eb79ea5f)
