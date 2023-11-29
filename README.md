@@ -1,5 +1,9 @@
 # AI_resources
 
+## AI Makerspace
+
+[LuMa](https://lu.ma/aimakerspace)
+
 ## Web resources
 [https://natural20.com/learn-ai/autogen/](https://natural20.com/learn-ai/autogen/)
 
