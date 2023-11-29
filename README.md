@@ -19,6 +19,8 @@
 
 [100 days to LangChain](https://docs.google.com/spreadsheets/d/1zuln4CZjic25jIxiars-Lf91tiwSiLuBFCw1aH5UggY/edit#gid=0)
 
+[SUBSTACK](https://substack.com/profile/16421186-panoevj/likes)
+
 
 ## Web articles
 
