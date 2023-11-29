@@ -13,6 +13,9 @@
 [Building with LLMs - FourthBrain](https://great-yamamomo-5c3.notion.site/Building-with-LLMs-7969d1e5e8e24ba99144255b58c5ea47)
 
 ## Web resources
+
+[MLQ.ai](https://www.mlq.ai/tag/generative-ai/)
+
 [https://natural20.com/learn-ai/autogen/](https://natural20.com/learn-ai/autogen/)
 
 [Harpreet's substack](https://harpreetsahota.substack.com/)
