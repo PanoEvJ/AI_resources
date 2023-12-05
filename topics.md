@@ -19,6 +19,8 @@ A Top-Down Approach to AI Transparency}(https://www.ai-transparency.org/)
 
 ## Autonomous Agents
 
+[Autogen Docs](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/#for-further-reading)
+
 [Autogen Blog](https://microsoft.github.io/autogen/blog/2023/11/20/AgentEval/)
 
 [Autonomous Agents article on Medium](https://ai.plainenglish.io/towards-collaborative-intelligence-advanced-multi-agent-systems-in-large-language-models-with-d7e090d2d739)
