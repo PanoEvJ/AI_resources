@@ -27,6 +27,8 @@
 
 ## Web articles
 
+[Comparison of existing VectorDB's](https://docs.google.com/spreadsheets/d/170HErOyOkLDjQfy3TJ6a3XXXM1rHvw_779Sit-KT7uc/htmlview)
+
 [Trasnformer Math 101 - EleutherAI](https://blog.eleuther.ai/transformer-math/)
 
 [Building Perfomant RAG applications for production - LlanaIndex](https://gpt-index.readthedocs.io/en/latest/end_to_end_tutorials/dev_practices/production_rag.html)
