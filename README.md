@@ -53,6 +53,8 @@
 
 [Lil'Log](https://lilianweng.github.io/)
 
+[Arjan Egges - Course](https://github.com/ArjanCodes/software-designer-mindset)
+
 ## Papers
 
 [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
