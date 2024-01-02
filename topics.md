@@ -15,8 +15,6 @@ A Top-Down Approach to AI Transparency](https://www.ai-transparency.org/)
 
 [Microsoft AutoGen notebooks](https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/?ref=mlq.ai)
 
-[Swarm of AI agents](https://ai.plainenglish.io/orchestrating-a-swarm-of-ai-agents-to-accomplish-complex-goals-a-theorical-approach-57241b614b46)
-
 ## Multimodal LLMs
 
 [Multi-modal LLMs by Code_your_own_AI](https://www.youtube.com/watch?v=pjxQVn9jeCs&t=867s&ab_channel=code_your_own_AI)
