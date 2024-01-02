@@ -14,7 +14,7 @@
 
 [MLQ.ai](https://www.mlq.ai/tag/generative-ai/)
 
-[https://natural20.com/learn-ai/autogen/](https://natural20.com/learn-ai/autogen/)
+[Byte Byte Go](https://blog.bytebytego.com/archive?sort=new)
 
 [Harpreet's substack](https://harpreetsahota.substack.com/)
 
