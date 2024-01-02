@@ -24,6 +24,8 @@
 
 [Arjan Codes](https://www.arjancodes.com/library)
 
+[The Sequence](https://thesequence.substack.com/)
+
 
 ## Web articles
 
