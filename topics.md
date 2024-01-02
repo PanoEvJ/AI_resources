@@ -1,39 +1,19 @@
 # Resources on specifiic topics
 
-## MemGPT
-
-[Webinar "Using memory with LLM applications in production"](https://www.youtube.com/watch?v=d3qQ4R4TgGw&ab_channel=DataPhoenixEvents)
-
-## RAG
-
-[RA-DIT: Retrieval-Augmented Dual Instruction Tuning](https://arxiv.org/abs/2310.013520)
-
-[Multimodal RAG with LlamaIndex](https://github.com/run-llama/llama_index/blob/main/docs/examples/multi_modal/multi_modal_retrieval.ipynb)
-
 ## AI transparency & Understanding
 
 [Representation Engineering:
-A Top-Down Approach to AI Transparency}(https://www.ai-transparency.org/)
+A Top-Down Approach to AI Transparency](https://www.ai-transparency.org/)
 
 [Decomposing Language Models Into Understandable Components](https://www.anthropic.com/index/decomposing-language-models-into-understandable-components)
 
 ## Autonomous Agents
 
-[Autogen Docs](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat/#for-further-reading)
-
 [Autogen Blog](https://microsoft.github.io/autogen/blog/2023/11/20/AgentEval/)
-
-[Autonomous Agents article on Medium](https://ai.plainenglish.io/towards-collaborative-intelligence-advanced-multi-agent-systems-in-large-language-models-with-d7e090d2d739)
 
 [Multi-Agents by MLQ.ai](https://www.mlq.ai/building-ai-agents-autogen/)
 
 [Microsoft AutoGen notebooks](https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/?ref=mlq.ai)
-
-[YouTube video by AIJason](https://www.youtube.com/watch?v=pJwR5pv0_gs&ab_channel=AIJason)
-
-[Overview by Medium article](https://medium.com/towards-data-science/4-autonomous-ai-agents-you-need-to-know-d612a643fa92)
-
-[Autogen](https://www.youtube.com/watch?v=L8UsPlT0nAA&ab_channel=echohive)
 
 [Swarm of AI agents](https://ai.plainenglish.io/orchestrating-a-swarm-of-ai-agents-to-accomplish-complex-goals-a-theorical-approach-57241b614b46)
 
