@@ -24,24 +24,18 @@
 
 [LabML - annotate arxiv papers with their github code](https://nn.labml.ai/)
 
+[Arjan Codes](https://www.arjancodes.com/library)
+
 
 ## Web articles
 
 [Comparison of existing VectorDB's](https://docs.google.com/spreadsheets/d/170HErOyOkLDjQfy3TJ6a3XXXM1rHvw_779Sit-KT7uc/htmlview)
 
-[Trasnformer Math 101 - EleutherAI](https://blog.eleuther.ai/transformer-math/)
-
 [Building Perfomant RAG applications for production - LlanaIndex](https://gpt-index.readthedocs.io/en/latest/end_to_end_tutorials/dev_practices/production_rag.html)
-
-[Building LLM applications for Production - Chip Huyen](https://huyenchip.com/2023/04/11/llm-engineering.html#part_2_task_composability)
-
-[Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
 
 [Multimodality and Large Multimodal Models (LMMs) by Chip Huyen](https://huyenchip.com/2023/10/10/multimodal.html)
 
 ## GitHub repos
-
-[Autogen + MemGPT code repo](https://github.com/PromptEngineer48/MemGPT-AutoGEN-LLM/)
 
 [ML engineering](https://github.com/stas00/ml-engineering/tree/master?utm_source=tldrai)
 
