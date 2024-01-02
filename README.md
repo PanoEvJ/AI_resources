@@ -22,8 +22,6 @@
 
 [SUBSTACK](https://substack.com/profile/16421186-panoevj/likes)
 
-[LabML - annotate arxiv papers with their github code](https://nn.labml.ai/)
-
 [Arjan Codes](https://www.arjancodes.com/library)
 
 
@@ -39,27 +37,13 @@
 
 [ML engineering](https://github.com/stas00/ml-engineering/tree/master?utm_source=tldrai)
 
-[Awesome Decision Transformer](https://github.com/opendilab/awesome-decision-transformer)
-
-[ML stock trading](https://github.com/D-dot-AT/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples)
-
-[Lil'Log](https://lilianweng.github.io/)
-
-[Arjan Egges - Course](https://github.com/ArjanCodes/software-designer-mindset)
-
 ## Papers
 
 [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864)
 
-[multi-task-language-understanding-on-mmlu](https://paperswithcode.com/sota/multi-task-language-understanding-on-mmlu)
-
 [BOOLA: Benchmarking and Orchestrating LLM Augmented Autonomous Agents](https://arxiv.org/pdf/2308.05960.pdf)
 
-[How LLMs use Long Context](https://arxiv.org/pdf/2307.03172.pdf)
-
 [Large Language Models for Software Engineering: A Systematic Literature Review](https://arxiv.org/abs/2308.10620)
-
-[PDFTriage: Question Answering over Long, Structured Documents](https://arxiv.org/pdf/2309.08872.pdf)
 
 ## Books
 
@@ -73,42 +57,12 @@
 
 [Distill_AI](https://aman.ai/primers/ai/)
 
-## Noteboooks
-
-[Export embeddings with DeciML](https://colab.research.google.com/drive/1l8qkG3pbIJQX7GUKvsW2WHxInldkCz_n?usp=sharing)
-
-[AI Makerspace - Training BART for summarization](https://colab.research.google.com/drive/1NwwPKYlyOIxeRI1BBUMZ-uFIApyZxARy?usp=sharingopens)
-
-## Projects to build next
-
-[Various projects - MLQ.ai](https://www.mlq.ai/tag/generative-ai/)
-
-## YouTube
-
-## LinkeDin
-
-## AI platforms
-
-[Phoenix Arize - ML Observability](https://phoenix.arize.com/)
-
-## Other
+## Useful tools
 
 [Model Memory Calculator - HuggingFace](https://huggingface.co/spaces/hf-accelerate/model-memory-usage)
 
 [AI_MakerSpace_CANVAS_presentation_stack](https://www.canva.com/design/DAFtsoiqqFs/S0HQc1TibgvTrufU1n7r8A/edit)
 
-## Career
-
-[CareerFlow.ai](https://app.careerflow.ai/)
-
-## Great AI tools
-
-[dexa.AI](https://dexa.ai/)
-
-## Topics for AI MakerSpace
-
-[Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207)
-
-[AI papers deep dive: LLM understanding, RAG, CoT](https://www.youtube.com/watch?v=-coFCnKo774&ab_channel=SophiaYang)
+[LabML - annotate arxiv papers with their github code](https://nn.labml.ai/)
 
 
