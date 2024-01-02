@@ -15,13 +15,6 @@ A Top-Down Approach to AI Transparency](https://www.ai-transparency.org/)
 
 [Microsoft AutoGen notebooks](https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/?ref=mlq.ai)
 
-## Multimodal LLMs
-
-[Multi-modal LLMs by Code_your_own_AI](https://www.youtube.com/watch?v=pjxQVn9jeCs&t=867s&ab_channel=code_your_own_AI)
-integration of both text & vision data
-
-[Donut & Nougat](https://www.youtube.com/watch?v=_ib8IvZijm0&ab_channel=code_your_own_AI)
-
 ## Code a Transformer
 
 [Transformers Illustrated](https://tamoghnasaha-22.medium.com/transformers-illustrated-5c9205a6c70f)
